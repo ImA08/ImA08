@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently Studying
+Hi, I’m a backend and data enthusiast passionate about building efficient systems and meaningful data solutions. I enjoy working with APIs, databases, and backend architectures to turn complex problems into clean, scalable solutions.
 
 
 ## 🌐 Socials:
